@@ -1,0 +1,18 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Scratch output
+*.tmp
+*.log
+tmp/
+scratch/
